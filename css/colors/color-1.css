@@ -48,11 +48,11 @@
 }
 
 ::-webkit-scrollbar {
-  background: #963c96;
+  background: #364493;
 }
 
 ::-webkit-scrollbar-track {
-  background-color: #963c96;
+  background-color: #364493;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -161,7 +161,7 @@ p.copyright a {
 }
 
 .section-main__intro {
-  background-color: #b247b2;
+  background-color: #364493;
 }
 
 .color-layer-medium {
@@ -181,7 +181,7 @@ p.copyright a {
 }
 
 .bg-dark {
-  background-color: #b247b2;
+  background-color: #364493;
 }
 
 /* ------------------------------------------------*/
@@ -191,7 +191,7 @@ p.copyright a {
 /* Menu Colors Start */
 /* ------------------------------------------------*/
 .menu {
-  background-color: #a040a0;
+  background-color: #364493;
 }
 @media only screen and (min-width: 1200px) {
   .menu {
