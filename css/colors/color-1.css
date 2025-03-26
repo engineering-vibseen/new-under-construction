@@ -56,7 +56,7 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #add322;
+  background-color: #5562ad;
 }
 
 html {
@@ -153,11 +153,11 @@ p.copyright a {
 }
 
 .clip .words-wrapper::after {
-  background-color: #add322;
+  background-color: #5562ad;
 }
 
 .section-main {
-  background-color: #add322;
+  background-color: #5562ad;
 }
 
 .section-main__intro {
@@ -177,7 +177,7 @@ p.copyright a {
 }
 
 .bg-medium {
-  background-color: #add322;
+  background-color: #5562ad;
 }
 
 .bg-dark {
@@ -264,8 +264,8 @@ p.copyright a {
 /* Buttons & Triggers Colors Start */
 /* ------------------------------------------------*/
 .button-solid-light {
-  background-color: #add322;
-  border: 2px solid #add322;
+  background-color: #5562ad;
+  border: 2px solid #5562ad;
   color: #070707;
 }
 .no-touch .button-solid-light:hover {
@@ -291,8 +291,8 @@ p.copyright a {
   border: 2px solid #ffffff;
 }
 .no-touch .button-outline-light:hover {
-  background-color: #add322;
-  border: 2px solid #add322;
+  background-color: #5562ad;
+  border: 2px solid #5562ad;
   color: #070707;
 }
 
@@ -340,7 +340,7 @@ p.copyright a {
 }
 .form-dark input:focus,
 .form-dark textarea:focus {
-  border-bottom: 1px solid #add322;
+  border-bottom: 1px solid #5562ad;
 }
 .form-dark .inputs-description {
   color: #444;
@@ -384,7 +384,7 @@ p.copyright a {
 }
 
 .reply-group__icon {
-  color: #add322;
+  color: #5562ad;
 }
 .reply-group__icon.light {
   color: #b5d738;
@@ -436,7 +436,7 @@ p.copyright a {
 }
 
 .pswp__button--close {
-  background-color: #add322;
+  background-color: #5562ad;
 }
 
 /* ------------------------------------------------*/
@@ -447,7 +447,7 @@ p.copyright a {
 /* ------------------------------------------------*/
 #zoom-in,
 #zoom-out {
-  background-color: #add322;
+  background-color: #5562ad;
   color: #070707;
 }
 .no-touch #zoom-in:hover,
