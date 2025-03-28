@@ -56,7 +56,7 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #ADD322;
+  background-color: #add322;
 }
 
 html {
@@ -84,7 +84,7 @@ h2 {
   color: silver;
 }
 h2::after {
-  background-color: #bddc4e;
+  background-color: #5562ad;
 }
 
 h3 {
@@ -153,15 +153,15 @@ p.copyright a {
 }
 
 .clip .words-wrapper::after {
-  background-color: #ADD322;
+  background-color: #add322;
 }
 
 .section-main {
-  background-color: #ADD322;
+  background-color: #add322;
 }
 
 .section-main__intro {
-  background-color: #B247B2;
+  background-color: #b247b2;
 }
 
 .color-layer-medium {
@@ -177,11 +177,11 @@ p.copyright a {
 }
 
 .bg-medium {
-  background-color: #ADD322;
+  background-color: #add322;
 }
 
 .bg-dark {
-  background-color: #B247B2;
+  background-color: #b247b2;
 }
 
 /* ------------------------------------------------*/
@@ -236,7 +236,7 @@ p.copyright a {
 /* Main Section Aside Colors Start */
 /* ------------------------------------------------*/
 .section-main__aside {
-  background-color: #B247B2;
+  background-color: #b247b2;
   background-repeat: repeat;
   background-position: top left;
 }
@@ -260,8 +260,8 @@ p.copyright a {
 /* Buttons & Triggers Colors Start */
 /* ------------------------------------------------*/
 .button-solid-light {
-  background-color: #ADD322;
-  border: 2px solid #ADD322;
+  background-color: #add322;
+  border: 2px solid #add322;
   color: #070707;
 }
 .no-touch .button-solid-light:hover {
@@ -287,8 +287,8 @@ p.copyright a {
   border: 2px solid #ffffff;
 }
 .no-touch .button-outline-light:hover {
-  background-color: #ADD322;
-  border: 2px solid #ADD322;
+  background-color: #add322;
+  border: 2px solid #add322;
   color: #070707;
 }
 
@@ -329,12 +329,14 @@ p.copyright a {
 .form-dark textarea:required:valid {
   color: #070707;
 }
-.form-dark input, .form-dark textarea {
+.form-dark input,
+.form-dark textarea {
   border-bottom: 1px solid #444;
   color: #070707;
 }
-.form-dark input:focus, .form-dark textarea:focus {
-  border-bottom: 1px solid #ADD322;
+.form-dark input:focus,
+.form-dark textarea:focus {
+  border-bottom: 1px solid #add322;
 }
 .form-dark .inputs-description {
   color: #444;
@@ -364,11 +366,13 @@ p.copyright a {
 .form-light textarea:required:valid {
   color: #ffffff;
 }
-.form-light input, .form-light textarea {
+.form-light input,
+.form-light textarea {
   border-bottom: 1px solid #ffffff;
   color: #ffffff;
 }
-.form-light input:focus, .form-light textarea:focus {
+.form-light input:focus,
+.form-light textarea:focus {
   border-bottom: 1px solid #b5d738;
 }
 .form-light .inputs-description {
@@ -376,7 +380,7 @@ p.copyright a {
 }
 
 .reply-group__icon {
-  color: #ADD322;
+  color: #add322;
 }
 .reply-group__icon.light {
   color: #b5d738;
@@ -428,7 +432,7 @@ p.copyright a {
 }
 
 .pswp__button--close {
-  background-color: #ADD322;
+  background-color: #add322;
 }
 
 /* ------------------------------------------------*/
@@ -437,11 +441,13 @@ p.copyright a {
 /* ------------------------------------------------*/
 /* Google Map Controls Colors Start */
 /* ------------------------------------------------*/
-#zoom-in, #zoom-out {
-  background-color: #ADD322;
+#zoom-in,
+#zoom-out {
+  background-color: #add322;
   color: #070707;
 }
-.no-touch #zoom-in:hover, .no-touch #zoom-out:hover {
+.no-touch #zoom-in:hover,
+.no-touch #zoom-out:hover {
   background-color: #c6e064;
 }
 
