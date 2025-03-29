@@ -72,27 +72,35 @@
 }
 
 .feature-image-1 {
-  background-image: url("https://dummyimage.com/1200x900/3d3d3d/7a7a7a");
+  background-image: url("../img/about_us/1.jpg");
 }
 
 .feature-image-2 {
-  background-image: url("https://dummyimage.com/1200x900/3d3d3d/7a7a7a");
+  background-image: url("../img/about_us/2.png");
 }
 
 .feature-image-3 {
-  background-image: url("https://dummyimage.com/1200x900/3d3d3d/7a7a7a");
+  background-image: url("../img/about_us/3.png");
 }
 
 .feature-image-4 {
-  background-image: url("https://dummyimage.com/1200x900/3d3d3d/7a7a7a");
+  background-image: url("../img/about_us/4.png");
 }
 
 .feature-image-5 {
-  background-image: url("https://dummyimage.com/1200x900/3d3d3d/7a7a7a");
+  background-image: url("../img/about_us/5.jpg");
 }
 
 .feature-image-6 {
-  background-image: url("https://dummyimage.com/1200x900/3d3d3d/7a7a7a");
+  background-image: url("../img/about_us/6.png");
+}
+
+.feature-image-7 {
+  background-image: url("../img/about_us/7.png");
+}
+
+.feature-image-8 {
+  background-image: url("../img/about_us/8.png");
 }
 
 .blockquote__container {
@@ -2944,7 +2952,12 @@ form .inputs-description {
   background-color: #313637;
   background-repeat: no-repeat;
   -moz-background-size: cover;
-  background-size: cover;
+
+  background-size: cover; /* Görselin alan içinde kalması için eklendi */
+  background-position: center; /* Görselin ortalanması için eklendi */
+  display: flex; /* Flexbox kullanarak içeriği ortalamak için eklendi */
+  justify-content: center; /* Yatayda ortalamak için eklendi */
+  align-items: center; /* Dikeyde ortalamak için eklendi */
 }
 @media only screen and (min-width: 768px) {
   .feature__image {
