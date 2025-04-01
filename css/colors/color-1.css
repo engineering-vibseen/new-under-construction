@@ -108,10 +108,10 @@ a.light {
   color: #ffffff;
 }
 .no-touch a:hover {
-  color: #d191d1;
+  color: #364493;
 }
 .no-touch a:hover.light {
-  color: #cee57a;
+  color: #364493;
 }
 
 p {
@@ -203,7 +203,7 @@ p.copyright a {
   color: #ffffff;
 }
 .no-touch .navigation li:hover a {
-  color: #b5d738;
+  color: #364493;
 }
 
 .menu-close {
