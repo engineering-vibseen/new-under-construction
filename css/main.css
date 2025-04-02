@@ -3219,3 +3219,35 @@ form .inputs-description {
 /* ------------------------------------------------*/
 /* Gallery Custom Styles End */
 /* ------------------------------------------------*/
+
+.location-container {
+  margin-bottom: 40px;
+  padding: 20px;
+  background-color: #f8f8f8;
+  border-radius: 10px;
+}
+
+.location-title {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+  color: #b247b2;
+}
+
+.address-text {
+  margin-top: 15px;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.contact-email {
+  margin-top: 30px;
+  padding: 15px;
+  background-color: #b247b2;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.contact-email a {
+  color: white;
+  font-weight: bold;
+}
