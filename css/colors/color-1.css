@@ -37,12 +37,12 @@
 /* Basic Color Options Start */
 /* ------------------------------------------------*/
 ::-moz-selection {
-  background-color: #c6e064;
+  background-color: #364493;
   color: #070707;
   text-shadow: none;
 }
 ::selection {
-  background-color: #c6e064;
+  background-color: #364493;
   color: #070707;
   text-shadow: none;
 }
